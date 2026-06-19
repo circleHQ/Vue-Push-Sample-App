@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@circlehq/push-web": "^1.0.2",
+    "@circlehq/push-web": "^1.2.0",
     "vue": "^3.4.0"
   },
   "devDependencies": {
